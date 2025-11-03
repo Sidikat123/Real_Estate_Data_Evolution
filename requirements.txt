@@ -1,0 +1,9 @@
+request
+json
+pandas 
+csv
+psycopg2
+
+
+
+
